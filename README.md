@@ -38,7 +38,7 @@ cross-backbone robustness analysis (Task 1) and for the septic-shock task
 
 ## Requirements
 
-Python 3.9+ with NumPy, pandas, and Matplotlib.
+Python 3.9+ 
 
 ```bash
 pip install -r requirements.txt
