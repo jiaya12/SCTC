@@ -1,4 +1,4 @@
-# (Temporary)SCTC — Severity-Conditioned Threshold Calibration
+# SCTC — Severity-Conditioned Threshold Calibration
 
 Code for the paper *"Severity-Stratified Calibration and Thresholding for
 Reliable ICU Alerts."*
