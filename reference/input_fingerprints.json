@@ -1,0 +1,10 @@
+{
+  "sha256": {
+    "lstm_predictions.csv": "0f2adc3a1d4c3eeeba5c2dcfc207796fd34008074148c95b6353d37d5984c83d",
+    "patient_timeseries_v4.csv": "6e811d31491c64600df9d47b05552128f8b175d9e1ddea3c194e91f281fa8696",
+    "icustays.csv": "3d74fca63aa573f831ae813dce39620ac5d6f59d28a4c101bac0011e1b941be7"
+  },
+  "windows": 14568,
+  "patients": 1833,
+  "stays": 1849
+}
