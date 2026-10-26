@@ -1,0 +1,18 @@
+{
+ "windows": 14568,
+ "on_vaso_windows": 3374,
+ "event_rate_on_vaso": 0.9184943687018375,
+ "event_rate_naive": 0.04743612649633732,
+ "on_vaso_share_by_stratum": [
+  0.15382528486163863,
+  0.18861485962463162,
+  0.35873731679819615
+ ],
+ "naive_windows": 11194,
+ "naive_patients": 1627,
+ "naive_event_rate_by_stratum": [
+  0.023404937479961526,
+  0.04282164022175492,
+  0.08227848101265822
+ ]
+}
